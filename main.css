@@ -1,0 +1,27 @@
+.representatives {
+    text-align:center;
+    padding: 1em;
+    margin: 0.5em;
+    /* display: flex; */
+}
+
+.rep__name {
+    font-size: 1.5em;
+}
+
+.roe__legislation {
+    list-style-type: none;
+}
+
+.rep__affiliation {
+font-weight: bold;
+}
+
+.legislation {
+    margin: .5em;
+    border: .2em grey groove;
+}
+
+.committee {
+font-style: italic;
+}
